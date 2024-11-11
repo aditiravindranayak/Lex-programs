@@ -1,11 +1,3 @@
-
-Here are the LEX programs for your requests:
-
-1. LEX Program to Check All Domain Types of Email Addresses
-This program validates emails with domains like ".com", ".in", ".org", ".net", etc.
-
-lex
-Copy code
 %{
     int flag = 0;
 %}
